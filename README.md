@@ -50,6 +50,3 @@ This repository presents materials for a presentation on **The Rise of Autonomou
 - **Live Demos**: Integrate live demonstrations of autonomous vehicle technologies or drone systems to provide a more engaging experience.
 - **Code Optimization**: Refactor the Python code to handle larger datasets or provide more dynamic content generation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
